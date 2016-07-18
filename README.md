@@ -32,3 +32,9 @@
   3. was the function called via a containing/owning object (context)
   4. DEFAULT: global object (except strict mode)
   ````
+
+3. closure: 
+
+  a) function has access to the variables in the lexical scope 
+
+  b) that function is executed out side of the lexical scope
